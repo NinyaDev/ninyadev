@@ -17,7 +17,7 @@ I'm a Software Engineer with a focus on scalable and secure systems. I have a de
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninyadev&layout=donut&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninyadev&layout=donut&theme=dracula&hide=typescript,html,css" alt="Top Languages" />
   
   <br/>
   
