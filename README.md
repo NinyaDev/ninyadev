@@ -12,7 +12,7 @@ I'm a Software Engineer with a focus on scalable and secure systems. I have a de
 ### Core Stack
 * **Systems & Backend:** Python, C#, Java, C++
 * **Web & Mobile:** TypeScript, Next.js, Swift (iOS), React Native
-* **Databases & Cloud:** PostgreSQL, Supabase, Vercel, Firebase, AWS, Azure
+* **Databases & Cloud:** AWS, Azure, PostgreSQL, Railway, Supabase, Vercel, Firebase
 
 <br/>
 
