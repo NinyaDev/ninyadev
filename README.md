@@ -8,6 +8,7 @@ I'm a Software Engineer with a focus on scalable and secure systems. I have a de
 * **Backend Systems:** Architecting scalable, multi-tenant systems and complex routing using Python and C#.
 * **Algorithm Optimization:** Designing custom scoring algorithms and backend APIs using FastAPI and PostgreSQL to automate complex scheduling and resource allocation.
 * **Enterprise Security:** Preparing to tackle enterprise-grade identity management and low-level system integrations.
+* **Personal Finances:** Currently building a project to target my personal finances.
 
 ### Core Stack
 * **Systems & Backend:** Python, C#, Java, C++
