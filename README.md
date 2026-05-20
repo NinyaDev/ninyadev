@@ -23,6 +23,6 @@ I'm a Software Engineer with a focus on scalable and secure systems. I have a de
   <br/>
   
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=ninyadev&theme=dracula&hide=streaks" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=ninyadev&theme=dracula&hide_current_streak=true" alt="GitHub Streak"/>
   </a>
 </div>
