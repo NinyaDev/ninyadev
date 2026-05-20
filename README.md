@@ -15,10 +15,10 @@ I'm a Software Engineer with a focus on scalable and secure systems. I have a de
 * **Web & Mobile:** TypeScript, Next.js, Swift (iOS), React Native
 * **Databases & Cloud:** AWS, Azure, PostgreSQL, Railway, Supabase, Vercel, Firebase
 
-<!-- <br/>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninyadev&layout=donut&theme=dracula&hide=typescript,html,css" alt="Top Languages"/> --> Removing as it stays down most of the time
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninyadev&layout=donut&theme=dracula&hide=typescript,html,css" alt="Top Languages"/> Removing as it stays down most of the time -->
   
   <br/>
   
