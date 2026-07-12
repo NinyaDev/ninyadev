@@ -1,4 +1,8 @@
-# Hi! I am Adrian
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=E83E8C&center=true&vCenter=true&width=435&lines=Hi!+I+am+Adrian;Software+Engineer;Backend+Architect" alt="Typing SVG" />
+  </a>
+</div>
 
 > *"With great power comes great architecture🕸️."*
 
