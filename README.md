@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=E6E6FA&center=true&vCenter=true&width=435&lines=Hi!+I+am+Adrian;Software+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF79C6&center=true&vCenter=true&width=435&lines=Hi!+I+am+Adrian;Software+Engineer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -46,11 +46,10 @@ I'm a Software Engineer with a focus on scalable and secure systems. I have a de
 <br/>
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninyadev&layout=donut&theme=dracula&hide=typescript,html,css" alt="Top Languages"/> Removing as it stays down most of the time -->
-  
-  <br/>
-  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ninyadev&show_icons=true&theme=dracula&hide_border=true" alt="ninyadev's GitHub stats" height="195" />
+  </a>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=ninyadev&theme=dracula&hide_current_streak=true" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=ninyadev&theme=dracula&hide_border=true" alt="GitHub Streak" height="195" />
   </a>
 </div>
