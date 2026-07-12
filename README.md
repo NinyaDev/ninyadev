@@ -46,9 +46,9 @@ I'm a Software Engineer with a focus on scalable and secure systems. I have a de
 <br/>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=ninyadev&show_icons=true&theme=dracula&hide_border=true" alt="ninyadev's GitHub stats" height="195" />
-  </a>
+  </a> -->
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=ninyadev&theme=dracula&hide_border=true" alt="GitHub Streak" height="195" />
   </a>
