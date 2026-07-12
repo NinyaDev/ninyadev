@@ -6,6 +6,11 @@
 
 > *"With great power comes great architecture🕸️."*
 
+<div align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
 I'm a Software Engineer with a focus on scalable and secure systems. I have a desire to always learn and to use this knowledge to help people around me. In this sense I am very inspired by Spider-Man and his way of finding balance between his two masks.
 
 ## Currently, I am heavily focused on:
